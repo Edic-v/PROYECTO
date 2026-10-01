@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Rutástrofe" company="" webLink="" view-date="2026-10-01" view-index="0" gantt-divider-location="400" resource-divider-location="300" version="3.2" locale="es_CO">
+ <description></description>
+ <view zooming-state="default:3" id="gantt-chart"/>
+ <calendars><day-types><day-type id="0"/><day-type id="1"/><calendar id="1" name="default"><default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/><only-show-weeks>false</only-show-weeks><overriden-day-types/><days/></calendar></day-types></calendars>
+ <tasks empty-milestones="true">
+  <task id="0" name="Análisis" color="#6fa8dc" meeting="false" start="2026-10-01" duration="7" complete="0" expand="true">
+   <task id="1" name="Corrección del problema y alcance; árbol del problema" color="#6fa8dc" meeting="false" start="2026-10-01" duration="4" complete="0" expand="true"/>
+   <task id="2" name="Revisión sistemática de literatura (RSL)" color="#6fa8dc" meeting="false" start="2026-10-01" duration="7" complete="0" expand="true"/>
+   <task id="3" name="Validación con 4 usuarios" color="#6fa8dc" meeting="false" start="2026-10-01" duration="7" complete="0" expand="true"/>
+  </task>
+  <task id="4" name="Diseño" color="#8e7cc3" meeting="false" start="2026-10-01" duration="12" complete="0" expand="true">
+   <task id="5" name="Storyboard y logo" color="#8e7cc3" meeting="false" start="2026-10-01" duration="6" complete="0" expand="true"/>
+   <task id="6" name="Prototipo navegacional" color="#8e7cc3" meeting="false" start="2026-10-05" duration="10" complete="0" expand="true"/>
+  </task>
+  <task id="7" name="Desarrollo" color="#93c47d" meeting="false" start="2026-10-01" duration="38" complete="0" expand="true">
+   <task id="8" name="Nivel 1 La avenida e interfaz base" color="#93c47d" meeting="false" start="2026-10-01" duration="7" complete="0" expand="true"/>
+   <task id="9" name="Archivos planos (usuarios, progreso, puntajes)" color="#93c47d" meeting="false" start="2026-10-05" duration="15" complete="0" expand="true"/>
+   <task id="10" name="Nivel 2 El barrio" color="#93c47d" meeting="false" start="2026-10-12" duration="16" complete="0" expand="true"/>
+   <task id="11" name="Nivel 3 La hora pico" color="#93c47d" meeting="false" start="2026-11-03" duration="15" complete="0" expand="true"/>
+  </task>
+  <task id="12" name="Pruebas" color="#f6b26b" meeting="false" start="2026-10-26" duration="30" complete="0" expand="true">
+   <task id="13" name="Pruebas funcionales por nivel" color="#f6b26b" meeting="false" start="2026-10-26" duration="25" complete="0" expand="true"/>
+   <task id="14" name="Pruebas con usuarios y ajustes" color="#f6b26b" meeting="false" start="2026-11-16" duration="15" complete="0" expand="true"/>
+  </task>
+  <task id="15" name="Operación y mantenimiento" color="#e06666" meeting="false" start="2026-11-23" duration="10" complete="0" expand="true">
+   <task id="16" name="Correcciones, manual de usuario e instalador" color="#e06666" meeting="false" start="2026-11-23" duration="10" complete="0" expand="true"/>
+  </task>
+  <task id="17" name="Hitos" color="#434343" meeting="false" start="2026-10-05" duration="50" complete="0" expand="true">
+   <task id="18" name="1ra socialización" color="#434343" meeting="false" start="2026-10-05" duration="5" complete="0" expand="true"/>
+   <task id="19" name="2da socialización" color="#434343" meeting="false" start="2026-12-07" duration="5" complete="0" expand="true"/>
+  </task>
+ </tasks>
+ <resources/>
+ <allocations/>
+ <vacations/>
+ <previous/>
+ <roles roleset-name="Default"/>
+</project>

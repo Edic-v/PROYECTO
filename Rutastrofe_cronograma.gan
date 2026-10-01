@@ -1,51 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="Rutástrofe" company="" webLink="" view-date="2026-09-21" view-index="0" gantt-divider-location="400" resource-divider-location="300" version="3.2" locale="es_CO">
- <description></description>
+<project name="Rutástrofe" company="" webLink="" view-date="2026-09-21" view-index="0" gantt-divider-location="420" resource-divider-location="300" version="3.2" locale="es_CO">
+ <description>Cronograma por semanas con fechas exactas</description>
  <view zooming-state="default:3" id="gantt-chart"/>
- <calendars><day-types><day-type id="0"/><day-type id="1"/><calendar id="1" name="default"><default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/><only-show-weeks>false</only-show-weeks><overriden-day-types/><days/></calendar></day-types></calendars>
+ <calendars><day-types><day-type id="0"/><day-type id="1"/><calendar id="1" name="default"><default-week id="1" name="default" sun="0" mon="0" tue="0" wed="0" thu="0" fri="0" sat="0"/><only-show-weeks>false</only-show-weeks><overriden-day-types/><days/></calendar></day-types></calendars>
  <tasks empty-milestones="true">
-  <task id="0" name="Análisis" color="#6fa8dc" meeting="false" start="2026-09-28" duration="10" complete="0" expand="true">
-   <task id="1" name="Corrección del problema, alcance y objetivos" color="#6fa8dc" meeting="false" start="2026-09-28" duration="5" complete="0" expand="true"/>
-   <task id="2" name="Funcionalidades y lenguaje con el módulo sol" color="#6fa8dc" meeting="false" start="2026-09-28" duration="5" complete="0" expand="true"/>
-   <task id="3" name="Revisión sistemática de literatura" color="#6fa8dc" meeting="false" start="2026-09-28" duration="10" complete="0" expand="true"/>
-   <task id="4" name="Validación con 4 usuarios" color="#6fa8dc" meeting="false" start="2026-09-28" duration="10" complete="0" expand="true"/>
+  <task id="0" name="Semana 7 (21 sep – 26 sep)" color="#4a6fa5" meeting="false" start="2026-09-21" duration="6" complete="0" expand="true">
+   <task id="1" name="Revisión del Cuadrante 2 (asesores) (21 sep – 26 sep)" color="#434343" meeting="false" start="2026-09-21" duration="6" complete="0" expand="true"/>
   </task>
-  <task id="5" name="Diseño" color="#8e7cc3" meeting="false" start="2026-09-28" duration="15" complete="0" expand="true">
-   <task id="6" name="Guion final, storyboard y logo" color="#8e7cc3" meeting="false" start="2026-09-28" duration="5" complete="0" expand="true"/>
-   <task id="7" name="Estructura de los archivos .txt" color="#8e7cc3" meeting="false" start="2026-10-05" duration="5" complete="0" expand="true"/>
-   <task id="8" name="Prototipo navegacional" color="#8e7cc3" meeting="false" start="2026-10-05" duration="10" complete="0" expand="true"/>
+  <task id="2" name="Semana 8 (28 sep – 3 oct)" color="#4a6fa5" meeting="false" start="2026-09-28" duration="6" complete="0" expand="true">
+   <task id="3" name="Corregir problema, alcance y objetivos (Cuadrante 2) (28 sep – 2 oct)" color="#6fa8dc" meeting="false" start="2026-09-28" duration="5" complete="0" expand="true"/>
+   <task id="4" name="Funcionalidades y lenguaje con el módulo sol (28 sep – 2 oct)" color="#6fa8dc" meeting="false" start="2026-09-28" duration="5" complete="0" expand="true"/>
+   <task id="5" name="Guion final, storyboard y logo (28 sep – 3 oct)" color="#8e7cc3" meeting="false" start="2026-09-28" duration="6" complete="0" expand="true"/>
+   <task id="6" name="Ventana, moto y 3 carriles (pygame) (28 sep – 3 oct)" color="#93c47d" meeting="false" start="2026-09-28" duration="6" complete="0" expand="true"/>
+   <task id="7" name="Revisión sistemática de literatura (inicio) (28 sep – 3 oct)" color="#6fa8dc" meeting="false" start="2026-09-28" duration="6" complete="0" expand="true"/>
+   <task id="8" name="Validación con 4 usuarios (inicio) (28 sep – 3 oct)" color="#6fa8dc" meeting="false" start="2026-09-28" duration="6" complete="0" expand="true"/>
   </task>
-  <task id="9" name="Desarrollo" color="#93c47d" meeting="false" start="2026-09-28" duration="30" complete="0" expand="true">
-   <task id="10" name="Ventana, moto y 3 carriles" color="#93c47d" meeting="false" start="2026-09-28" duration="5" complete="0" expand="true"/>
-   <task id="11" name="Obstáculos, choques, vidas y puntaje" color="#93c47d" meeting="false" start="2026-10-05" duration="5" complete="0" expand="true"/>
-   <task id="12" name="Semáforos y cajas" color="#93c47d" meeting="false" start="2026-10-12" duration="5" complete="0" expand="true"/>
-   <task id="13" name="Menú, inicio de sesión y pantallas" color="#93c47d" meeting="false" start="2026-10-12" duration="10" complete="0" expand="true"/>
-   <task id="14" name="Archivos planos (usuarios y puntajes)" color="#93c47d" meeting="false" start="2026-10-19" duration="5" complete="0" expand="true"/>
-   <task id="15" name="Tramos 1 y 2 (barrio y avenida)" color="#93c47d" meeting="false" start="2026-10-19" duration="5" complete="0" expand="true"/>
-   <task id="16" name="Tramos 3 y 4 y barra de la Cabezota" color="#93c47d" meeting="false" start="2026-10-26" duration="5" complete="0" expand="true"/>
-   <task id="17" name="Recta final, ganar y perder, ranking" color="#93c47d" meeting="false" start="2026-11-02" duration="5" complete="0" expand="true"/>
+  <task id="9" name="Semana 9 (5 oct – 11 oct)" color="#4a6fa5" meeting="false" start="2026-10-05" duration="7" complete="0" expand="true">
+   <task id="10" name="Obstáculos, choques, vidas y puntaje (5 oct – 10 oct)" color="#93c47d" meeting="false" start="2026-10-05" duration="6" complete="0" expand="true"/>
+   <task id="11" name="Estructura de los archivos .txt (5 oct – 9 oct)" color="#8e7cc3" meeting="false" start="2026-10-05" duration="5" complete="0" expand="true"/>
+   <task id="12" name="Prototipo navegacional (5 oct – 9 oct)" color="#8e7cc3" meeting="false" start="2026-10-05" duration="5" complete="0" expand="true"/>
+   <task id="13" name="Revisión sistemática de literatura y validación (cierre) (5 oct – 9 oct)" color="#6fa8dc" meeting="false" start="2026-10-05" duration="5" complete="0" expand="true"/>
+   <task id="14" name="1ra socialización (5 oct – 11 oct)" color="#434343" meeting="false" start="2026-10-05" duration="7" complete="0" expand="true"/>
   </task>
-  <task id="18" name="Pruebas" color="#f6b26b" meeting="false" start="2026-10-12" duration="25" complete="0" expand="true">
-   <task id="19" name="Pruebas de cada tramo" color="#f6b26b" meeting="false" start="2026-10-12" duration="20" complete="0" expand="true"/>
-   <task id="20" name="Pruebas funcionales, con 4 usuarios y correcciones" color="#f6b26b" meeting="false" start="2026-11-09" duration="5" complete="0" expand="true"/>
+  <task id="15" name="Semana 10 (12 oct – 17 oct)" color="#4a6fa5" meeting="false" start="2026-10-12" duration="6" complete="0" expand="true">
+   <task id="16" name="Semáforos y cajas (12 oct – 17 oct)" color="#93c47d" meeting="false" start="2026-10-12" duration="6" complete="0" expand="true"/>
+   <task id="17" name="Menú, inicio de sesión y pantallas (12 oct – 17 oct)" color="#93c47d" meeting="false" start="2026-10-12" duration="6" complete="0" expand="true"/>
+   <task id="18" name="Pruebas de lo desarrollado (12 oct – 17 oct)" color="#f6b26b" meeting="false" start="2026-10-12" duration="6" complete="0" expand="true"/>
+   <task id="19" name="Notas de la 1ra socialización (profesores) (12 oct – 17 oct)" color="#434343" meeting="false" start="2026-10-12" duration="6" complete="0" expand="true"/>
   </task>
-  <task id="21" name="Operación y mantenimiento" color="#e06666" meeting="false" start="2026-11-16" duration="15" complete="0" expand="true">
-   <task id="22" name="Manual de usuario e instalador" color="#e06666" meeting="false" start="2026-11-16" duration="5" complete="0" expand="true"/>
-   <task id="23" name="Documentación final" color="#e06666" meeting="false" start="2026-11-23" duration="5" complete="0" expand="true"/>
-   <task id="24" name="Ensayo y video de respaldo" color="#e06666" meeting="false" start="2026-11-30" duration="5" complete="0" expand="true"/>
+  <task id="20" name="Semana 11 (19 oct – 24 oct)" color="#4a6fa5" meeting="false" start="2026-10-19" duration="6" complete="0" expand="true">
+   <task id="21" name="Archivos planos (usuarios y puntajes) (19 oct – 24 oct)" color="#93c47d" meeting="false" start="2026-10-19" duration="6" complete="0" expand="true"/>
+   <task id="22" name="Tramos 1 y 2 (barrio y avenida) (19 oct – 24 oct)" color="#93c47d" meeting="false" start="2026-10-19" duration="6" complete="0" expand="true"/>
+   <task id="23" name="Pruebas de los tramos 1 y 2 (19 oct – 24 oct)" color="#f6b26b" meeting="false" start="2026-10-19" duration="6" complete="0" expand="true"/>
   </task>
-  <task id="25" name="Hitos del equipo" color="#c2185b" meeting="false" start="2026-11-14" duration="1" complete="0" expand="true">
-   <task id="26" name="JUEGO FINALIZADO (versión final)" color="#c2185b" meeting="false" start="2026-11-14" duration="1" complete="0" expand="true"/>
+  <task id="24" name="Semana 12 (26 oct – 31 oct)" color="#4a6fa5" meeting="false" start="2026-10-26" duration="6" complete="0" expand="true">
+   <task id="25" name="Tramos 3 y 4 (mercado y túnel) y barra de la Cabezota (26 oct – 31 oct)" color="#93c47d" meeting="false" start="2026-10-26" duration="6" complete="0" expand="true"/>
+   <task id="26" name="Pruebas de los tramos 3 y 4 (26 oct – 31 oct)" color="#f6b26b" meeting="false" start="2026-10-26" duration="6" complete="0" expand="true"/>
   </task>
-  <task id="27" name="Hitos del protocolo" color="#434343" meeting="false" start="2026-09-21" duration="65" complete="0" expand="true">
-   <task id="28" name="Revisión del Cuadrante 2 (asesores)" color="#434343" meeting="false" start="2026-09-21" duration="5" complete="0" expand="true"/>
-   <task id="29" name="1ra socialización" color="#434343" meeting="false" start="2026-10-05" duration="5" complete="0" expand="true"/>
-   <task id="30" name="Notas de la 1ra socialización" color="#434343" meeting="false" start="2026-10-12" duration="5" complete="0" expand="true"/>
-   <task id="31" name="Revisión del Cuadrante 3 (módulo sol)" color="#434343" meeting="false" start="2026-11-02" duration="5" complete="0" expand="true"/>
-   <task id="32" name="Revisión del Cuadrante 4 (asesores)" color="#434343" meeting="false" start="2026-11-23" duration="5" complete="0" expand="true"/>
-   <task id="33" name="2da socialización" color="#434343" meeting="false" start="2026-12-07" duration="5" complete="0" expand="true"/>
-   <task id="34" name="Notas de la 2da socialización" color="#434343" meeting="false" start="2026-12-14" duration="5" complete="0" expand="true"/>
-   <task id="35" name="Entrega definitiva de notas" color="#434343" meeting="false" start="2026-12-14" duration="5" complete="0" expand="true"/>
+  <task id="27" name="Semana 13 (2 nov – 7 nov)" color="#4a6fa5" meeting="false" start="2026-11-02" duration="6" complete="0" expand="true">
+   <task id="28" name="Recta final, ganar y perder, ranking (2 nov – 7 nov)" color="#93c47d" meeting="false" start="2026-11-02" duration="6" complete="0" expand="true"/>
+   <task id="29" name="Revisión del Cuadrante 3 (módulo sol) (2 nov – 7 nov)" color="#434343" meeting="false" start="2026-11-02" duration="6" complete="0" expand="true"/>
+  </task>
+  <task id="30" name="Semana 14 (9 nov – 14 nov)" color="#4a6fa5" meeting="false" start="2026-11-09" duration="6" complete="0" expand="true">
+   <task id="31" name="Pruebas funcionales y correcciones (9 nov – 14 nov)" color="#f6b26b" meeting="false" start="2026-11-09" duration="6" complete="0" expand="true"/>
+   <task id="32" name="Pruebas con los 4 usuarios (9 nov – 14 nov)" color="#f6b26b" meeting="false" start="2026-11-09" duration="6" complete="0" expand="true"/>
+   <task id="33" name="JUEGO FINALIZADO (versión final) (14 nov)" color="#c2185b" meeting="false" start="2026-11-14" duration="1" complete="0" expand="true"/>
+  </task>
+  <task id="34" name="Semana 15 (16 nov – 21 nov)" color="#4a6fa5" meeting="false" start="2026-11-16" duration="6" complete="0" expand="true">
+   <task id="35" name="Manual de usuario (16 nov – 21 nov)" color="#e06666" meeting="false" start="2026-11-16" duration="6" complete="0" expand="true"/>
+   <task id="36" name="Instalador (16 nov – 21 nov)" color="#e06666" meeting="false" start="2026-11-16" duration="6" complete="0" expand="true"/>
+  </task>
+  <task id="37" name="Semana 16 (23 nov – 28 nov)" color="#4a6fa5" meeting="false" start="2026-11-23" duration="6" complete="0" expand="true">
+   <task id="38" name="Documentación final (23 nov – 28 nov)" color="#e06666" meeting="false" start="2026-11-23" duration="6" complete="0" expand="true"/>
+   <task id="39" name="Revisión del Cuadrante 4 (asesores) (23 nov – 28 nov)" color="#434343" meeting="false" start="2026-11-23" duration="6" complete="0" expand="true"/>
+  </task>
+  <task id="40" name="Semana 17 (30 nov – 5 dic)" color="#4a6fa5" meeting="false" start="2026-11-30" duration="6" complete="0" expand="true">
+   <task id="41" name="Ensayo de exposición (30 nov – 5 dic)" color="#e06666" meeting="false" start="2026-11-30" duration="6" complete="0" expand="true"/>
+   <task id="42" name="Video de respaldo (30 nov – 5 dic)" color="#e06666" meeting="false" start="2026-11-30" duration="6" complete="0" expand="true"/>
+  </task>
+  <task id="43" name="Semana 18 (7 dic – 12 dic)" color="#4a6fa5" meeting="false" start="2026-12-07" duration="6" complete="0" expand="true">
+   <task id="44" name="2da socialización (software operativo) (7 dic – 12 dic)" color="#434343" meeting="false" start="2026-12-07" duration="6" complete="0" expand="true"/>
+  </task>
+  <task id="45" name="Semana 19 (14 dic – 20 dic)" color="#4a6fa5" meeting="false" start="2026-12-14" duration="7" complete="0" expand="true">
+   <task id="46" name="Notas de la 2da socialización (profesores) (14 dic – 19 dic)" color="#434343" meeting="false" start="2026-12-14" duration="6" complete="0" expand="true"/>
+   <task id="47" name="Entrega definitiva de notas (Coord. PPI) (14 dic – 20 dic)" color="#434343" meeting="false" start="2026-12-14" duration="7" complete="0" expand="true"/>
   </task>
  </tasks>
  <resources/>

@@ -1,34 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="Rutástrofe" company="" webLink="" view-date="2026-10-01" view-index="0" gantt-divider-location="400" resource-divider-location="300" version="3.2" locale="es_CO">
+<project name="Rutástrofe" company="" webLink="" view-date="2026-09-21" view-index="0" gantt-divider-location="400" resource-divider-location="300" version="3.2" locale="es_CO">
  <description></description>
  <view zooming-state="default:3" id="gantt-chart"/>
  <calendars><day-types><day-type id="0"/><day-type id="1"/><calendar id="1" name="default"><default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/><only-show-weeks>false</only-show-weeks><overriden-day-types/><days/></calendar></day-types></calendars>
  <tasks empty-milestones="true">
-  <task id="0" name="Análisis" color="#6fa8dc" meeting="false" start="2026-10-01" duration="7" complete="0" expand="true">
-   <task id="1" name="Corrección del problema y alcance; árbol del problema" color="#6fa8dc" meeting="false" start="2026-10-01" duration="4" complete="0" expand="true"/>
-   <task id="2" name="Revisión sistemática de literatura (RSL)" color="#6fa8dc" meeting="false" start="2026-10-01" duration="7" complete="0" expand="true"/>
-   <task id="3" name="Validación con 4 usuarios" color="#6fa8dc" meeting="false" start="2026-10-01" duration="7" complete="0" expand="true"/>
+  <task id="0" name="Análisis" color="#6fa8dc" meeting="false" start="2026-09-28" duration="10" complete="0" expand="true">
+   <task id="1" name="Corrección del problema, alcance y objetivos" color="#6fa8dc" meeting="false" start="2026-09-28" duration="5" complete="0" expand="true"/>
+   <task id="2" name="Funcionalidades y lenguaje con el módulo sol" color="#6fa8dc" meeting="false" start="2026-09-28" duration="5" complete="0" expand="true"/>
+   <task id="3" name="Revisión sistemática de literatura" color="#6fa8dc" meeting="false" start="2026-09-28" duration="10" complete="0" expand="true"/>
+   <task id="4" name="Validación con 4 usuarios" color="#6fa8dc" meeting="false" start="2026-09-28" duration="10" complete="0" expand="true"/>
   </task>
-  <task id="4" name="Diseño" color="#8e7cc3" meeting="false" start="2026-10-01" duration="12" complete="0" expand="true">
-   <task id="5" name="Storyboard y logo" color="#8e7cc3" meeting="false" start="2026-10-01" duration="6" complete="0" expand="true"/>
-   <task id="6" name="Prototipo navegacional" color="#8e7cc3" meeting="false" start="2026-10-05" duration="10" complete="0" expand="true"/>
+  <task id="5" name="Diseño" color="#8e7cc3" meeting="false" start="2026-09-28" duration="15" complete="0" expand="true">
+   <task id="6" name="Guion final, storyboard y logo" color="#8e7cc3" meeting="false" start="2026-09-28" duration="5" complete="0" expand="true"/>
+   <task id="7" name="Estructura de los archivos .txt" color="#8e7cc3" meeting="false" start="2026-10-05" duration="5" complete="0" expand="true"/>
+   <task id="8" name="Prototipo navegacional" color="#8e7cc3" meeting="false" start="2026-10-05" duration="10" complete="0" expand="true"/>
   </task>
-  <task id="7" name="Desarrollo" color="#93c47d" meeting="false" start="2026-10-01" duration="38" complete="0" expand="true">
-   <task id="8" name="Mecánica de conducción e interfaz base" color="#93c47d" meeting="false" start="2026-10-01" duration="7" complete="0" expand="true"/>
-   <task id="9" name="Archivos planos (usuarios, puntajes)" color="#93c47d" meeting="false" start="2026-10-05" duration="15" complete="0" expand="true"/>
-   <task id="10" name="Obstáculos y zonas de semáforos" color="#93c47d" meeting="false" start="2026-10-12" duration="16" complete="0" expand="true"/>
-   <task id="11" name="Cabezota (barra de distancia), cajas, puntaje y vidas" color="#93c47d" meeting="false" start="2026-11-03" duration="15" complete="0" expand="true"/>
+  <task id="9" name="Desarrollo" color="#93c47d" meeting="false" start="2026-09-28" duration="30" complete="0" expand="true">
+   <task id="10" name="Ventana, moto y 3 carriles" color="#93c47d" meeting="false" start="2026-09-28" duration="5" complete="0" expand="true"/>
+   <task id="11" name="Obstáculos, choques, vidas y puntaje" color="#93c47d" meeting="false" start="2026-10-05" duration="5" complete="0" expand="true"/>
+   <task id="12" name="Semáforos y cajas" color="#93c47d" meeting="false" start="2026-10-12" duration="5" complete="0" expand="true"/>
+   <task id="13" name="Menú, inicio de sesión y pantallas" color="#93c47d" meeting="false" start="2026-10-12" duration="10" complete="0" expand="true"/>
+   <task id="14" name="Archivos planos (usuarios y puntajes)" color="#93c47d" meeting="false" start="2026-10-19" duration="5" complete="0" expand="true"/>
+   <task id="15" name="Tramos 1 y 2 (barrio y avenida)" color="#93c47d" meeting="false" start="2026-10-19" duration="5" complete="0" expand="true"/>
+   <task id="16" name="Tramos 3 y 4 y barra de la Cabezota" color="#93c47d" meeting="false" start="2026-10-26" duration="5" complete="0" expand="true"/>
+   <task id="17" name="Recta final, ganar y perder, ranking" color="#93c47d" meeting="false" start="2026-11-02" duration="5" complete="0" expand="true"/>
   </task>
-  <task id="12" name="Pruebas" color="#f6b26b" meeting="false" start="2026-10-26" duration="30" complete="0" expand="true">
-   <task id="13" name="Pruebas funcionales del juego" color="#f6b26b" meeting="false" start="2026-10-26" duration="25" complete="0" expand="true"/>
-   <task id="14" name="Pruebas con usuarios y ajustes" color="#f6b26b" meeting="false" start="2026-11-16" duration="15" complete="0" expand="true"/>
+  <task id="18" name="Pruebas" color="#f6b26b" meeting="false" start="2026-10-12" duration="30" complete="0" expand="true">
+   <task id="19" name="Pruebas de cada tramo" color="#f6b26b" meeting="false" start="2026-10-12" duration="20" complete="0" expand="true"/>
+   <task id="20" name="Pruebas funcionales y correcciones" color="#f6b26b" meeting="false" start="2026-11-09" duration="5" complete="0" expand="true"/>
+   <task id="21" name="Pruebas con 4 usuarios y ajustes" color="#f6b26b" meeting="false" start="2026-11-16" duration="5" complete="0" expand="true"/>
   </task>
-  <task id="15" name="Operación y mantenimiento" color="#e06666" meeting="false" start="2026-11-23" duration="10" complete="0" expand="true">
-   <task id="16" name="Correcciones, manual de usuario e instalador" color="#e06666" meeting="false" start="2026-11-23" duration="10" complete="0" expand="true"/>
+  <task id="22" name="Operación y mantenimiento" color="#e06666" meeting="false" start="2026-11-16" duration="15" complete="0" expand="true">
+   <task id="23" name="Manual de usuario" color="#e06666" meeting="false" start="2026-11-16" duration="5" complete="0" expand="true"/>
+   <task id="24" name="Instalador y código final" color="#e06666" meeting="false" start="2026-11-23" duration="5" complete="0" expand="true"/>
+   <task id="25" name="Ensayo y video de respaldo" color="#e06666" meeting="false" start="2026-11-30" duration="5" complete="0" expand="true"/>
   </task>
-  <task id="17" name="Hitos" color="#434343" meeting="false" start="2026-10-05" duration="50" complete="0" expand="true">
-   <task id="18" name="1ra socialización" color="#434343" meeting="false" start="2026-10-05" duration="5" complete="0" expand="true"/>
-   <task id="19" name="2da socialización" color="#434343" meeting="false" start="2026-12-07" duration="5" complete="0" expand="true"/>
+  <task id="26" name="Hitos del protocolo" color="#434343" meeting="false" start="2026-09-21" duration="65" complete="0" expand="true">
+   <task id="27" name="Revisión del Cuadrante 2 (asesores)" color="#434343" meeting="false" start="2026-09-21" duration="5" complete="0" expand="true"/>
+   <task id="28" name="1ra socialización" color="#434343" meeting="false" start="2026-10-05" duration="5" complete="0" expand="true"/>
+   <task id="29" name="Notas de la 1ra socialización" color="#434343" meeting="false" start="2026-10-12" duration="5" complete="0" expand="true"/>
+   <task id="30" name="Revisión del Cuadrante 3 (módulo sol)" color="#434343" meeting="false" start="2026-11-02" duration="5" complete="0" expand="true"/>
+   <task id="31" name="Revisión del Cuadrante 4 (asesores)" color="#434343" meeting="false" start="2026-11-23" duration="5" complete="0" expand="true"/>
+   <task id="32" name="2da socialización" color="#434343" meeting="false" start="2026-12-07" duration="5" complete="0" expand="true"/>
+   <task id="33" name="Notas de la 2da socialización" color="#434343" meeting="false" start="2026-12-14" duration="5" complete="0" expand="true"/>
+   <task id="34" name="Entrega definitiva de notas" color="#434343" meeting="false" start="2026-12-14" duration="5" complete="0" expand="true"/>
   </task>
  </tasks>
  <resources/>

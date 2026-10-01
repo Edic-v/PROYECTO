@@ -25,25 +25,27 @@
    <task id="16" name="Tramos 3 y 4 y barra de la Cabezota" color="#93c47d" meeting="false" start="2026-10-26" duration="5" complete="0" expand="true"/>
    <task id="17" name="Recta final, ganar y perder, ranking" color="#93c47d" meeting="false" start="2026-11-02" duration="5" complete="0" expand="true"/>
   </task>
-  <task id="18" name="Pruebas" color="#f6b26b" meeting="false" start="2026-10-12" duration="30" complete="0" expand="true">
+  <task id="18" name="Pruebas" color="#f6b26b" meeting="false" start="2026-10-12" duration="25" complete="0" expand="true">
    <task id="19" name="Pruebas de cada tramo" color="#f6b26b" meeting="false" start="2026-10-12" duration="20" complete="0" expand="true"/>
-   <task id="20" name="Pruebas funcionales y correcciones" color="#f6b26b" meeting="false" start="2026-11-09" duration="5" complete="0" expand="true"/>
-   <task id="21" name="Pruebas con 4 usuarios y ajustes" color="#f6b26b" meeting="false" start="2026-11-16" duration="5" complete="0" expand="true"/>
+   <task id="20" name="Pruebas funcionales, con 4 usuarios y correcciones" color="#f6b26b" meeting="false" start="2026-11-09" duration="5" complete="0" expand="true"/>
   </task>
-  <task id="22" name="Operación y mantenimiento" color="#e06666" meeting="false" start="2026-11-16" duration="15" complete="0" expand="true">
-   <task id="23" name="Manual de usuario" color="#e06666" meeting="false" start="2026-11-16" duration="5" complete="0" expand="true"/>
-   <task id="24" name="Instalador y código final" color="#e06666" meeting="false" start="2026-11-23" duration="5" complete="0" expand="true"/>
-   <task id="25" name="Ensayo y video de respaldo" color="#e06666" meeting="false" start="2026-11-30" duration="5" complete="0" expand="true"/>
+  <task id="21" name="Operación y mantenimiento" color="#e06666" meeting="false" start="2026-11-16" duration="15" complete="0" expand="true">
+   <task id="22" name="Manual de usuario e instalador" color="#e06666" meeting="false" start="2026-11-16" duration="5" complete="0" expand="true"/>
+   <task id="23" name="Documentación final" color="#e06666" meeting="false" start="2026-11-23" duration="5" complete="0" expand="true"/>
+   <task id="24" name="Ensayo y video de respaldo" color="#e06666" meeting="false" start="2026-11-30" duration="5" complete="0" expand="true"/>
   </task>
-  <task id="26" name="Hitos del protocolo" color="#434343" meeting="false" start="2026-09-21" duration="65" complete="0" expand="true">
-   <task id="27" name="Revisión del Cuadrante 2 (asesores)" color="#434343" meeting="false" start="2026-09-21" duration="5" complete="0" expand="true"/>
-   <task id="28" name="1ra socialización" color="#434343" meeting="false" start="2026-10-05" duration="5" complete="0" expand="true"/>
-   <task id="29" name="Notas de la 1ra socialización" color="#434343" meeting="false" start="2026-10-12" duration="5" complete="0" expand="true"/>
-   <task id="30" name="Revisión del Cuadrante 3 (módulo sol)" color="#434343" meeting="false" start="2026-11-02" duration="5" complete="0" expand="true"/>
-   <task id="31" name="Revisión del Cuadrante 4 (asesores)" color="#434343" meeting="false" start="2026-11-23" duration="5" complete="0" expand="true"/>
-   <task id="32" name="2da socialización" color="#434343" meeting="false" start="2026-12-07" duration="5" complete="0" expand="true"/>
-   <task id="33" name="Notas de la 2da socialización" color="#434343" meeting="false" start="2026-12-14" duration="5" complete="0" expand="true"/>
-   <task id="34" name="Entrega definitiva de notas" color="#434343" meeting="false" start="2026-12-14" duration="5" complete="0" expand="true"/>
+  <task id="25" name="Hitos del equipo" color="#c2185b" meeting="false" start="2026-11-14" duration="1" complete="0" expand="true">
+   <task id="26" name="JUEGO FINALIZADO (versión final)" color="#c2185b" meeting="false" start="2026-11-14" duration="1" complete="0" expand="true"/>
+  </task>
+  <task id="27" name="Hitos del protocolo" color="#434343" meeting="false" start="2026-09-21" duration="65" complete="0" expand="true">
+   <task id="28" name="Revisión del Cuadrante 2 (asesores)" color="#434343" meeting="false" start="2026-09-21" duration="5" complete="0" expand="true"/>
+   <task id="29" name="1ra socialización" color="#434343" meeting="false" start="2026-10-05" duration="5" complete="0" expand="true"/>
+   <task id="30" name="Notas de la 1ra socialización" color="#434343" meeting="false" start="2026-10-12" duration="5" complete="0" expand="true"/>
+   <task id="31" name="Revisión del Cuadrante 3 (módulo sol)" color="#434343" meeting="false" start="2026-11-02" duration="5" complete="0" expand="true"/>
+   <task id="32" name="Revisión del Cuadrante 4 (asesores)" color="#434343" meeting="false" start="2026-11-23" duration="5" complete="0" expand="true"/>
+   <task id="33" name="2da socialización" color="#434343" meeting="false" start="2026-12-07" duration="5" complete="0" expand="true"/>
+   <task id="34" name="Notas de la 2da socialización" color="#434343" meeting="false" start="2026-12-14" duration="5" complete="0" expand="true"/>
+   <task id="35" name="Entrega definitiva de notas" color="#434343" meeting="false" start="2026-12-14" duration="5" complete="0" expand="true"/>
   </task>
  </tasks>
  <resources/>

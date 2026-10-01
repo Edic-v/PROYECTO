@@ -14,13 +14,13 @@
    <task id="6" name="Prototipo navegacional" color="#8e7cc3" meeting="false" start="2026-10-05" duration="10" complete="0" expand="true"/>
   </task>
   <task id="7" name="Desarrollo" color="#93c47d" meeting="false" start="2026-10-01" duration="38" complete="0" expand="true">
-   <task id="8" name="Nivel 1 La avenida e interfaz base" color="#93c47d" meeting="false" start="2026-10-01" duration="7" complete="0" expand="true"/>
-   <task id="9" name="Archivos planos (usuarios, progreso, puntajes)" color="#93c47d" meeting="false" start="2026-10-05" duration="15" complete="0" expand="true"/>
-   <task id="10" name="Nivel 2 El barrio" color="#93c47d" meeting="false" start="2026-10-12" duration="16" complete="0" expand="true"/>
-   <task id="11" name="Nivel 3 La hora pico" color="#93c47d" meeting="false" start="2026-11-03" duration="15" complete="0" expand="true"/>
+   <task id="8" name="Mecánica de conducción e interfaz base" color="#93c47d" meeting="false" start="2026-10-01" duration="7" complete="0" expand="true"/>
+   <task id="9" name="Archivos planos (usuarios, puntajes)" color="#93c47d" meeting="false" start="2026-10-05" duration="15" complete="0" expand="true"/>
+   <task id="10" name="Obstáculos y decisiones (semáforo, peatón, casco, celular)" color="#93c47d" meeting="false" start="2026-10-12" duration="16" complete="0" expand="true"/>
+   <task id="11" name="Cabezota, puntaje, vidas y dificultad progresiva" color="#93c47d" meeting="false" start="2026-11-03" duration="15" complete="0" expand="true"/>
   </task>
   <task id="12" name="Pruebas" color="#f6b26b" meeting="false" start="2026-10-26" duration="30" complete="0" expand="true">
-   <task id="13" name="Pruebas funcionales por nivel" color="#f6b26b" meeting="false" start="2026-10-26" duration="25" complete="0" expand="true"/>
+   <task id="13" name="Pruebas funcionales del juego" color="#f6b26b" meeting="false" start="2026-10-26" duration="25" complete="0" expand="true"/>
    <task id="14" name="Pruebas con usuarios y ajustes" color="#f6b26b" meeting="false" start="2026-11-16" duration="15" complete="0" expand="true"/>
   </task>
   <task id="15" name="Operación y mantenimiento" color="#e06666" meeting="false" start="2026-11-23" duration="10" complete="0" expand="true">
